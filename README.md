@@ -1,4 +1,4 @@
-## **Bem-vindo ao meu repositório** 👋😊
+## **ᓚᘏᗢBem-vindo ao meu repositório** 
 
 - Atualmente sou Aluna do 1°ano na escola E.E. Izabel de Almeida Marin;
 - estou trabalhando em preojetos de **Scratch**, **JavaScript**, **HTML** e **CSS** no **P5JS** e **VSCode**🖥🕹;
